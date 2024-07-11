@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">slot_game</string>
+    <string name="balance">Balance:</string>
+    <string name="best_win">Best Win:</string>
+    <string name="spins_number">Spins number:</string>
+    <string name="total_number_of_coins_lost">Total number of coins lost:</string>
+    <string name="total_number_of_coins_won">Total number of coins won:</string>
+</resources>
